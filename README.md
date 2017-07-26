@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Automated Coding of Protest Event Data
 
-You can use the [editor on GitHub](https://github.com/MPEDS/mpeds.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The MPEDS (Machine-Learning Protest Event Data System) project is funded by National Science Foundation grant #1423784. The goal is to replace the labor-intensive process of having human coders look for information about protests in news sources with a computerized process. Many researchers want to be able to study the conditions under which protest emerges or grows and the ways in which protest affects social policy and/or is repressed. Researchers want to study whether movements around different types of issues exhibit different patterns and whether different “types” of places give rise to different movements. Do environmental movements have different patterns of growth from feminist or Black movements? Do they use similar or different tactics? Are they responded to similarly or differently by police? Human coding of news sources to find information about protests takes a long time and costs a lot in the wages for the human coders. For this reason, most projects are limited to a single issue or a short time period or just one or two news sources. These practical limits make it difficult to know how general the results from one study will be for other issues or places or time periods.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Machine-Learning Protest Event Data System (MPEDS), developed by project member [Alex Hanna](http://www.alex-hanna.com), is the first of its kind coming from within the social movement community that is specifically focused on identifying and coding information about protests. MPEDS uses recent innovations from machine learning and natural language processing to generate protest event data with little to no human intervention. This permits the timely coding of information about recent and current events and improves the ability to code information on historical events from the growing pool of sources that are available in machine-readable format. MPEDS is already working for us. It is being refined and will soon be made available to the open-source community for use by others. Alex has working papers in progress (some sole-authored and some co-authored with other team members) that will soon be available that describe the accuracy statistics of MPEDS that vary with the types of materials it is trained on, and give examples of how it can be used.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MPEDS/mpeds.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Other team members besides Alex Hanna are Pamela Oliver and Chaeyoon Lim (PIs), graduate students Emanuel Ubert and Katherine Fallon, and a host of undergraduates. The rest of us have primarily worked on the problem of human-coding articles from a wide variety of sources to feed them to MPEDS as training materials. One of the things we have learned on this project is that human coders do not always agree with each other about whether something is a protest or about its descriptive characteristics. We will be writing articles about the overall problem of coding protest events and weighing MPEDS’s accuracy against human coding.
