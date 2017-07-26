@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+title: MPEDS
+description: Machine-Learning Protest Event Data System
+
+navigation:
+  - title: References
+    url: references.html
+
+  - title: Test
+    url: test.html
