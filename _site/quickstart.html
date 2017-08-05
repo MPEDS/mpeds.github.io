@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>MPEDS by MPEDS</title>
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=9998f1dc75ee7c7bfa1dc41f6da7c3ad0cade6f9">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>MPEDS</h1>
+        <p>Machine-Learning Protest Event Data System</p>
+
+        <p>
+        <a href="http://localhost:4000" >Home</a><br>
+        
+        <a href="quickstart.html" alt="Quick Start">Quick Start</a><br>
+        
+        <a href="references.html" alt="References">References</a><br>
+        
+        </p>
+
+        
+          <ul>
+            <li><a href="https://github.com/alexhanna/mpeds/archive/master.zip">Download <strong>ZIP File</strong></a></li>
+            <li><a href="https://github.com/alexhanna/mpeds/archive/master.tar.gz">Download <strong>TAR Ball</strong></a></li>
+            <li><a href="https://github.com/alexhanna/mpeds/">View On <strong>GitHub</strong></a></li>
+          </ul>
+        
+      </header>
+      <section>
+
+      <p>MPEDS is distributed as a Docker container. To run it on your computer, you first need to download and install <a href="https://www.docker.com">Docker</a>.</p>
+
+<p>To get started, clone or download the <a href="https://github.com/alexhanna/mpeds">Git repository</a>, navigate to the directory in a terminal, and run <code class="highlighter-rouge">docker-compose run mpeds</code></p>
+
+<p><strong>Example code:</strong></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>git clone https://github.com/alexhanna/mpeds.git
+cd mpeds
+docker-compose run mpeds
+</code></pre>
+</div>
+
+<p>This will build and launch two linked Docker containers. The first contains the geotagging service <a href="http://cliff.mediameter.org">CLIFF</a>, which is used to extract information on locations mentioned in the articles. The second container is used to run the main MPEDS program.</p>
+
+<p>The CLIFF container will normally take between 10 and 30 minutes to launch. The main MPEDS container will wait for the CLIFF container to be ready before it launches into a command line prompt. Once the container is ready, MPEDS can be run as a Python tool.</p>
+
+<p>To run an example script, type <code class="highlighter-rouge">python example-lexisnexis.py</code> into the command line prompt.</p>
+
+
+      </section>
+      <footer>
+        
+        <p>This project is maintained by <a href="http://github.com/MPEDS">MPEDS</a></p>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+
+
+  
+  </body>
+</html>

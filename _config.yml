@@ -1,10 +1,18 @@
 theme: jekyll-theme-minimal
 title: MPEDS
 description: Machine-Learning Protest Event Data System
+show_downloads: true
+
+# include these as manual settings to avoid linking to website
+
+repository_url: https://github.com/alexhanna/mpeds/
+zip_url: https://github.com/alexhanna/mpeds/archive/master.zip
+tar_url: https://github.com/alexhanna/mpeds/archive/master.tar.gz
 
 navigation:
+
+  - title: Quick Start
+    url: quickstart.html
+
   - title: References
     url: references.html
-
-  - title: Test
-    url: test.html
