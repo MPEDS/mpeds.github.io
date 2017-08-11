@@ -1,6 +1,6 @@
 ---
-title: Papers
-permalink: papers.html
+title: Publications
+permalink: publications.html
 ---
 
 ## Preprints

@@ -10,19 +10,19 @@ Our first project that uses MPEDS has involved identifying Black protests in new
 
 As the project develops and grows, we will be posting new technical reports and published [papers](papers.html) to this site.
 
-## Team members
+### Team members
 
 - [Alex Hanna](http://alex-hanna.com)
 - [Pamela Oliver](http://www.ssc.wisc.edu/~oliver)
 - [Chaeyoon Lim](http://www.ssc.wisc.edu/soc/faculty/show-person.php?person_id=523)
 
-## Past team members
+### Past team members
 
 - Emanuel Ubert
 - Katherine Fallon
 - Yijing Bai
 - Erle Holgersen
 
-## Acknowledgments
+### Acknowledgments
 
 MPEDS developed has been funded by National Science Foundation grant #1423784 and the Research and Scholar Activity Fund at University of Toronto Mississauga.
