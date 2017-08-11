@@ -1,3 +1,7 @@
+--
+title: Automated Coding of Protest Event Data with MPEDS
+--
+
 ## Automated Coding of Protest Event Data
 
 **The goal of the Machine-Learning Protest Event Data System (MPEDS) is to replace the labor-intensive process of having human coders look for information about protests in news sources with a computer-aided set of protocols.** 
