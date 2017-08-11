@@ -1,7 +1,3 @@
----
-title: Automated Coding of Protest Event Data with MPEDS
----
-
 ## Automated Coding of Protest Event Data
 
 **The goal of the Machine-Learning Protest Event Data System (MPEDS) is to replace the labor-intensive process of having human coders look for information about protests in news sources with a computer-aided set of protocols.** 
@@ -10,7 +6,9 @@ Many researchers want to be able to study the conditions under which protest eme
 
 MPEDS is the first of its kind coming from within the social movement community that is specifically focused on identifying and coding information about protests. MPEDS uses recent innovations from machine learning and natural language processing to generate protest event data with little to no human intervention. This permits the timely coding of information about recent and current events and improves the ability to code information on historical events from the growing pool of sources that are available in machine-readable format. 
 
-Our first project that uses MPEDS has involved identifying Black protests in news wire sources. We will be using these data in a study of the correlates of Black protest over time and space. We are also beginning to look into the use of MPEDS to look into anti-racist campus protest, Black Lives Matter, and indigenous protest in Canada.
+Our first project that uses MPEDS has involved identifying Black protests in news wire sources. Our application of the system in this project has been a hybrid approach, using system components to help to identify Black protest events. As the project matures, we hope to use more and more automated components to make this task easier for researchers. We will be using these data in a study of the correlates of Black protest over time and space.
+
+Future projects using MPEDS include looking into the diffusion of anti-racism campus protest and the interplay of protest and social media in Black Lives Matter and indigenous protest in Canada.
 
 As the project develops and grows, we will be posting new technical reports and published [papers](papers.html) to this site.
 
