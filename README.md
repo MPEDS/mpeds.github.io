@@ -1,6 +1,6 @@
---
+---
 title: Automated Coding of Protest Event Data with MPEDS
---
+---
 
 ## Automated Coding of Protest Event Data
 
