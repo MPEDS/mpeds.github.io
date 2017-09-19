@@ -5,9 +5,9 @@ show_downloads: true
 
 # include these as manual settings to avoid linking to website
 
-repository_url: https://github.com/alexhanna/mpeds/
-zip_url: https://github.com/alexhanna/mpeds/archive/master.zip
-tar_url: https://github.com/alexhanna/mpeds/archive/master.tar.gz
+repository_url: https://github.com/mpeds/mpeds/
+zip_url: https://github.com/mpeds/mpeds/archive/master.zip
+tar_url: https://github.com/mpeds/mpeds/archive/master.tar.gz
 
 navigation:
 
@@ -16,3 +16,6 @@ navigation:
 
   - title: Publications
     url: publications.html
+
+  - title: Annotation Interface
+    url: mai.html
