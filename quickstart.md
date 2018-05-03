@@ -4,10 +4,10 @@ permalink: quickstart.html
 
 ---
 
-MPEDS is distributed as a Docker container. To run it on your computer, you first need to download and install [Docker](https://www.docker.com).
+MPEDS is distributed as a Docker container. To run it on your computer, you first need to download and install [Docker](https://www.docker.com). You'll also need to install [Git LFS](https://github.com/git-lfs/git-lfs/wiki/Installation), which allows you to download the large-file classifiers and vectorizers.
 
 
-To get started, clone or download the [Git repository](https://github.com/mpeds/mpeds), navigate to the directory in a terminal, and run `docker-compose run mpeds`
+After that, clone or download the [Git repository](https://github.com/mpeds/mpeds), navigate to the directory in a terminal, and run `docker-compose run mpeds`
 
 **Example code:**
 
