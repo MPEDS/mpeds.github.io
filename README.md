@@ -10,7 +10,7 @@ Our first project that uses MPEDS identifies Black protests in news wire sources
 
 Future projects using MPEDS include looking into the diffusion of anti-racism campus protest and the interplay of protest and social media in Black Lives Matter and indigenous protest in Canada.
 
-As the project develops and grows, we will be posting new technical reports and published [papers](papers.html) to this site.
+As the project develops and grows, we will be posting new technical reports and published [papers](publications.html) to this site.
 
 ### Team members
 
